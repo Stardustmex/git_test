@@ -7,7 +7,7 @@
 </head>
 <body>
 
-    <h1>Test Git</h1>
+    <h1>Test GitHub</h1>
     
 </body>
 </html>
