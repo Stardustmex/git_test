@@ -14,12 +14,6 @@
         <link rel="apple-touch-icon" href="apple-touch-icon.png">
 
         <link rel="stylesheet" href="css/bootstrap.min.css">
-        <style>
-            body {
-                padding-top: 50px;
-                padding-bottom: 20px;
-            }
-        </style>
         <link rel="stylesheet" href="css/bootstrap-theme.min.css">
         <link rel="stylesheet" href="css/main.css">
 
@@ -39,7 +33,9 @@
             <span class="icon-bar"></span>
           </button>
 
-          <a class="navbar-brand" href="#">name</a>
+
+          <a class="navbar-brand" href="#">Project Name</a>
+
 
         </div>
         <div id="navbar" class="navbar-collapse collapse">
@@ -62,7 +58,7 @@
 
         <h1>Hi, world!</h1>
 
-        <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing, elit. Reprehenderit aspernatur dolore, possimus beatae debitis soluta, rem magnam ullam velit perspiciatis accusantium a voluptatum cum, quas! Accusantium corporis modi architecto, earum!</p>
         <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
       </div>
     </div>
