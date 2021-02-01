@@ -34,7 +34,7 @@
           </button>
 
 
-          <a class="navbar-brand" href="#">Project Name</a>
+          <a class="navbar-brand" href="#">Projects Names</a>
 
 
         </div>
