@@ -1,5 +1,5 @@
 
-<!doctype html lang="en">
+<!doctype>
 
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
@@ -14,7 +14,7 @@
         <link rel="apple-touch-icon" href="apple-touch-icon.png">
 
         <link rel="stylesheet" href="css/bootstrap.min.css">
-        <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+        <link rel="stylesheet" href="css/theme.min.css">
         <link rel="stylesheet" href="css/main.css">
 
         <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
@@ -34,7 +34,7 @@
           </button>
 
 
-          <a class="navbar-brand" href="#">Projects Names</a>
+          <a class="navbar-brand" href="#">Project Name</a>
 
 
         </div>
@@ -68,7 +68,7 @@
       <div class="row">
         <div class="col-md-6">
           <h2>Heading</h2>
-          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+          <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus, ipsum. Deserunt consequuntur, consectetur distinctio sequi dignissimos iusto impedit aspernatur similique necessitatibus. Optio quos et assumenda fugit harum maxime iusto necessitatibus.</p>
           <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-6">
